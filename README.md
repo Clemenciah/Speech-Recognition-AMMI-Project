@@ -1,2 +1,2 @@
 # Speech-Recognition-AMMI-Project
-The project involved recording of audio in Swahili language
+This project involved recording of audio in Swahili language using the lig-aikuma app.
