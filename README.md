@@ -1,5 +1,5 @@
 # Speech-Recognition-AMMI-Project
-This project involved recording of audio in Swahili language using the Lig-AIkuma app.
+This project involved recording of audio in Swahili language using the Lig-Aikuma app for the course Speech Recognition by Laurent Besacier.
 
 # Data Collection
 The audio data in Swahili language was recorded using the Lig-AIkuma android app. This repository contains 2h recorded audio from 12300 words split into sentences of maximum length of 15 words per sentence.
